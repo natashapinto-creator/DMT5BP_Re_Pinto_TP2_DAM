@@ -5,6 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/materials/MasterMaterial/MasterMaterial.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/materials/MasterMaterial/Floor_01.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/materials/MasterMaterial/Roof_01.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/materials/MasterMaterial/Frames_01.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/DMT5BP_RePinto_Spaceship.umap",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Base_color.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Roof_1/DefaultMaterial_Base_color.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Walls_01/DefaultMaterial_Base_color.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Height.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Metallic.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Roof_1/DefaultMaterial_Metallic.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Walls_01/DefaultMaterial_Metallic.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Mixed_AO.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Roof_1/DefaultMaterial_Mixed_AO.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Walls_01/DefaultMaterial_Mixed_AO.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Normal.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Roof_1/DefaultMaterial_Normal.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Walls_01/DefaultMaterial_Normal.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Normal_DirectX.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Frames_01/DefaultMaterial_Roughness.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Roof_1/DefaultMaterial_Roughness.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Textures/Walls_01/DefaultMaterial_Roughness.uasset",
+				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/materials/MasterMaterial/Walls_01.uasset",
 				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Mm_Sky/Mm_Sky.uasset",
 				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Mm_Sky/Mm_Sky_Inst.uasset",
 				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/Mm_Sky/qwantani_night_puresky_4k.uasset",
@@ -36,8 +59,7 @@
 				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/ImportedBlenderAssets/SM_pared_laboratorio.uasset",
 				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/ImportedBlenderAssets/SM_pared_laboratorio_puerta.uasset",
 				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/ImportedBlenderAssets/SM_piso_laboratorio.uasset",
-				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/ImportedBlenderAssets/SM_techo_laboratorio.uasset",
-				"C:/Users/Natasha/OneDrive/Escritorio/FACULTAD/2026/UNREAL/DMT5BP_RE_PINTO_TP2/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/materials/MasterMaterial/MasterMaterial.uasset"
+				"C:/Users/anapa/OneDrive/Documentos/GitHub/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2_DAM/DMT5BP_Re_Pinto_TP2/Content/ImportedBlenderAssets/SM_techo_laboratorio.uasset"
 			]
 		}
 	]
